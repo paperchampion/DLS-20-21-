@@ -1,4 +1,5 @@
 # Churn Prediction (Telecom company)
+You can see fancy html-version [here](https://nbviewer.jupyter.org/github/paperchampion/DLS_20-21/blob/master/simple-churn-prediction/simple-churn-prediction.ipynb)
 
 In this task teachers split [this dataset](https://www.kaggle.com/blastchar/telco-customer-churn) (presumably) in the following proportions: ~75% for train set (train.csv), ~25% for test set (test.csv) – and hosted [Kaggle InClass competition](https://www.kaggle.com/c/advanced-dls-fall-2020/overview). Task requirements were quite simple (see [baseline.ipynb](https://github.com/paperchampion/DLS_20-21/blob/master/simple-churn-prediction/baseline.ipynb)):
 * Download datasets (you can find it [here](https://drive.google.com/drive/folders/1JimvXHOwXeD-4PTeRNvoev1jbZLI6FJW)) and detect "missing" values;
