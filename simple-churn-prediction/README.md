@@ -36,5 +36,5 @@ I've decided to make this homework more complex and involve other ML methods/tec
   - [ ] Try sampling techniques
   - [ ] FP/FN predictions analysis
 5. General tasks:
-  - [ ] Adapt seaborn methods to the latest release;
+  - [x] Adapt seaborn methods to the latest release;
   - [ ] Adapt notebook for submitting on kaggle
